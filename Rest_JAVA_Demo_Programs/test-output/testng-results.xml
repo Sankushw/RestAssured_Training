@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="85" started-at="2021-03-24T08:33:11Z" finished-at="2021-03-24T08:33:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="85" started-at="2021-03-24T08:33:11Z" finished-at="2021-03-24T08:33:11Z">
+      <class name="pack7_Date.Dates">
+        <test-method status="PASS" signature="Dates()[pri:0, instance:pack7_Date.Dates@174d20a]" name="Dates" duration-ms="31" started-at="2021-03-24T14:03:11Z" finished-at="2021-03-24T14:03:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dates -->
+        <test-method status="PASS" signature="Formated_date_Using_CalenderObject()[pri:0, instance:pack7_Date.Dates@174d20a]" name="Formated_date_Using_CalenderObject" duration-ms="11" started-at="2021-03-24T14:03:11Z" finished-at="2021-03-24T14:03:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Formated_date_Using_CalenderObject -->
+        <test-method status="PASS" signature="Formated_date_Using_SimpleDateFormat1()[pri:0, instance:pack7_Date.Dates@174d20a]" name="Formated_date_Using_SimpleDateFormat1" duration-ms="7" started-at="2021-03-24T14:03:11Z" finished-at="2021-03-24T14:03:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Formated_date_Using_SimpleDateFormat1 -->
+      </class> <!-- pack7_Date.Dates -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
